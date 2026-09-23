@@ -1,0 +1,15 @@
+{
+  "originHash" : "895bd10a3e215839b3a7e65f82aa52e57aa36cd952a8f46269161e4127278af1",
+  "pins" : [
+    {
+      "identity" : "mylibraryspm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/simonegallus/MyLibrarySpm",
+      "state" : {
+        "branch" : "main",
+        "revision" : "409450e810e1105a2a0839886aec1cec85f90fd0"
+      }
+    }
+  ],
+  "version" : 3
+}
