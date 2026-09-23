@@ -16,6 +16,7 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Hello, world!")
             Text(Calculator.sum(lhs: 10, rhs: 20).description)
+            Text(Calculator.subtract(lhs: 10, rhs: 20).description)
         }
         .padding()
     }
